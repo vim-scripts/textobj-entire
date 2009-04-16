@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2610
+
+*textobj-entire* is a Vim plugin to provide text objects to select the entire
+content of a buffer.
+
+
+Requirements:
+- Vim 7.2 or later
+- |textobj-user| 0.3.7 or later (vimscript#2100)
+
+Latest version:
+http://github.com/kana/vim-textobj-entire
